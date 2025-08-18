@@ -25,6 +25,7 @@ SRCS(
     partition_write.cpp
     partition.cpp
     percentile_counter.cpp
+    percentile_compactification.cpp
     pq.cpp
     pq_database.cpp
     pq_impl_app.cpp
